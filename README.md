@@ -1,0 +1,1 @@
+Write a spark job which is reading data as mentioned in `input.json` from kafka and writing it into cassandra.
